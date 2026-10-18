@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "EchoApp: a single-file app that only acts after predicting and confirming an echo.",
   "license": "MIT",
-  "scripts": { "test": "node --test test/", "start": "python3 -m http.server 8080" },
+  "scripts": { "test": "node --test test/*.test.js", "start": "python3 -m http.server 8080" },
   "engines": { "node": ">=18" }
 }
