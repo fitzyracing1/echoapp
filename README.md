@@ -1,5 +1,7 @@
 # EchoApp
 
+**Live:** https://fitzyracing1.github.io/echoapp/ · **Repo:** https://github.com/fitzyracing1/echoapp
+
 **A new type of application that only acts after predicting and confirming an echo.**
 
 Traditional apps keep a world model and execute on input. EchoApp runs one loop:
